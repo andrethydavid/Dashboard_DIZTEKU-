@@ -23,3 +23,29 @@ Power BI: Plataforma principal para la visualización de datos.
 Microsoft Excel: Preparación inicial de los datos.
 
 SQL: Consulta e integración de bases de datos estructuradas.
+
+
+📥 Fuentes de Datos
+
+Información financiera consolidada por región y segmento.
+
+Datos obtenidos de sistemas internos y bases de datos SQL.
+
+📈 Capturas de Pantalla
+
+A continuación, se presenta una muestra del dashboard:
+
+
+
+## ✅ Beneficios
+
+Identificar patrones de ingresos y gastos a lo largo del tiempo.
+
+Optimizar la distribución de recursos según segmentos y países.
+
+Facilitar la toma de decisiones basadas en datos visuales.
+
+#3♣ 🤝 Contribuciones
+
+¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar este proyecto, por favor abre un issue o envía un pull request.
+
