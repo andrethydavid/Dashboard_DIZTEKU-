@@ -49,3 +49,5 @@ Facilitar la toma de decisiones basadas en datos visuales.
 
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar este proyecto, por favor abre un issue o envía un pull request.
 
+![image](https://github.com/user-attachments/assets/7bf9e129-2800-4b83-af08-0b137a427b0f)
+
